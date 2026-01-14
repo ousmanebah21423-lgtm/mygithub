@@ -30,4 +30,4 @@
 
 ### í´— Resources & References
 * **Link/Book:** [Title or URL]
-* **Related Note:** [[Link to another markdown file]]
+* **Related Note:** [[Link to another markdown file]fhg]
